@@ -1,0 +1,13 @@
+C:\Users\Norine Oo\Desktop\onboardingtask\api\onboarding_api\Onboarding.Core\bin\Debug\netcoreapp3.1\Onboarding.Core.deps.json
+C:\Users\Norine Oo\Desktop\onboardingtask\api\onboarding_api\Onboarding.Core\bin\Debug\netcoreapp3.1\Onboarding.Core.dll
+C:\Users\Norine Oo\Desktop\onboardingtask\api\onboarding_api\Onboarding.Core\bin\Debug\netcoreapp3.1\Onboarding.Core.pdb
+C:\Users\Norine Oo\Desktop\onboardingtask\api\onboarding_api\Onboarding.Core\bin\Debug\netcoreapp3.1\Onboarding.DB.dll
+C:\Users\Norine Oo\Desktop\onboardingtask\api\onboarding_api\Onboarding.Core\bin\Debug\netcoreapp3.1\Onboarding.DB.pdb
+C:\Users\Norine Oo\Desktop\onboardingtask\api\onboarding_api\Onboarding.Core\obj\Debug\netcoreapp3.1\Onboarding.Core.csproj.AssemblyReference.cache
+C:\Users\Norine Oo\Desktop\onboardingtask\api\onboarding_api\Onboarding.Core\obj\Debug\netcoreapp3.1\Onboarding.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norine Oo\Desktop\onboardingtask\api\onboarding_api\Onboarding.Core\obj\Debug\netcoreapp3.1\Onboarding.Core.AssemblyInfoInputs.cache
+C:\Users\Norine Oo\Desktop\onboardingtask\api\onboarding_api\Onboarding.Core\obj\Debug\netcoreapp3.1\Onboarding.Core.AssemblyInfo.cs
+C:\Users\Norine Oo\Desktop\onboardingtask\api\onboarding_api\Onboarding.Core\obj\Debug\netcoreapp3.1\Onboarding.Core.csproj.CoreCompileInputs.cache
+C:\Users\Norine Oo\Desktop\onboardingtask\api\onboarding_api\Onboarding.Core\obj\Debug\netcoreapp3.1\Onboarding.Core.csproj.CopyComplete
+C:\Users\Norine Oo\Desktop\onboardingtask\api\onboarding_api\Onboarding.Core\obj\Debug\netcoreapp3.1\Onboarding.Core.dll
+C:\Users\Norine Oo\Desktop\onboardingtask\api\onboarding_api\Onboarding.Core\obj\Debug\netcoreapp3.1\Onboarding.Core.pdb
